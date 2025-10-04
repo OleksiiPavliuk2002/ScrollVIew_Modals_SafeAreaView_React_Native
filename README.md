@@ -2,4 +2,5 @@
 
 ## Ready application is shown below
 
-<img src="./assets/demo.gif" width="220">
+<video src="./assets/demo.mp4" width="220">
+
