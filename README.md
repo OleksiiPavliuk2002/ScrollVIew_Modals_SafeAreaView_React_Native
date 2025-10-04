@@ -2,6 +2,6 @@
 
 ## Ready application is shown below
 
-<video src="./assets/demo.mp4" width="220">
-
-
+<video width="220">
+    <source src="./assets/demo.mp4" type="video/mp4">
+</video>
